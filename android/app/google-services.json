@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "624588399070",
+    "project_id": "aquaponie-d1423",
+    "storage_bucket": "aquaponie-d1423.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624588399070:android:850edd9d78b00a81fe3d4f",
+        "android_client_info": {
+          "package_name": "com.example.appnew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJsZtk0JT4SHVy3jXsQihdVZmkWo7XyUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
